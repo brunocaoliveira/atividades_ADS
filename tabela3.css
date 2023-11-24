@@ -1,0 +1,27 @@
+table td, table th{
+    border: 1px solid #c9c3c3;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.azul1{
+    font-size: 25px;
+    background-color: #677bd4;
+    color: aliceblue;
+    text-align: center;
+}
+
+.azul2{
+    font-size: 25px;
+    background-color: #2741b9;
+    color: aliceblue;
+    text-align: center;
+}
+
+.azul3{
+    font-size: 25px;
+    background-color: #1e3080;
+    color: aliceblue;
+    text-align: center;
+}
